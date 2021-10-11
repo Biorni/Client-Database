@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=MaxHeap
+comment1.params=size
+comment1.target=MaxHeap(int)
+comment2.params=
+comment2.target=boolean\ isEmpty()
+comment3.params=value
+comment3.target=void\ insert(java.lang.Double)
+comment4.params=idx
+comment4.target=void\ heapify(int)
+comment5.params=i1\ i2
+comment5.target=void\ swap(int,\ int)
+comment6.params=
+comment6.target=java.lang.Double\ pop()
+numComments=7

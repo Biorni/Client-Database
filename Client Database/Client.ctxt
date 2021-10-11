@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.target=Client
+comment1.params=clientId\ clientname\ transacDetails
+comment1.target=Client(int,\ java.lang.String,\ TransactionsList)
+comment10.params=newDate
+comment10.target=void\ setdate(java.lang.String)
+comment2.params=
+comment2.target=void\ displayClient()
+comment3.params=
+comment3.target=int\ getclientId()
+comment4.params=
+comment4.target=java.lang.String\ getname()
+comment5.params=
+comment5.target=TransactionsList\ gettransactionsDetails()
+comment6.params=
+comment6.target=TransactionsList\ getdate()
+comment7.params=newClientId
+comment7.target=void\ setclientId(int)
+comment8.params=newName
+comment8.target=void\ setname(java.lang.String)
+comment9.params=newTransactionsDetails
+comment9.target=void\ settransactionsDetails(TransactionsList)
+numComments=11

@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=ClientList
+comment1.params=
+comment1.target=ClientList()
+comment2.params=
+comment2.target=boolean\ isEmpty()
+comment3.params=clientId\ name\ transactionsDetails
+comment3.target=void\ insertFirst(int,\ java.lang.String,\ TransactionsList)
+comment4.params=key
+comment4.target=Client\ find(int)
+comment5.params=key
+comment5.target=Client\ delete(int)
+comment6.params=
+comment6.target=void\ displayFirst()
+numComments=7
